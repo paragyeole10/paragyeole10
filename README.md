@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Parag  <br><br>💻 Engineering Student | AI Enthusiast  <br>🔬 Interested in Artificial Intelligence, Smart Systems, and Automation  <br>⚡ Building projects with Python, C++<br>📚 Currently learning AI development<br>🎨 Creative side: Video editing and sketch art<br><br>📈 My goal is simple: **Trying to do better every day.**
+Hi 👋 I'm Parag  <br><br>💻 Engineering Student | AI/ML Dev  <br>🔬 Interested in Artificial Intelligence, Smart Systems, and Automation  <br>⚡ Building projects with Python, C++<br>📚 Currently learning AI development<br>🎨 Creative side: Video editing and sketch art<br><br>📈 My goal is simple: **Trying to do better every day.**
 
 
 ## 🌐 Socials:
