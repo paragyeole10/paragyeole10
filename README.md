@@ -135,27 +135,6 @@ Voice-enabled IoT automation using MQTT and Firebase.
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=paragyeole10&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragyeole10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=paragyeole10&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paragyeole10&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
 # Activity Graph
 
 <p align="center">
