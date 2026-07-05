@@ -1,18 +1,201 @@
-# 💫 About Me:
-Hi 👋 I'm Parag  <br><br>💻 Engineering Student | AI/ML Dev  <br>🔬 Interested in Artificial Intelligence, Smart Systems, and Automation  <br>⚡ Building projects with Python, C++<br>📚 Currently learning AI development<br>🎨 Creative side: Video editing and sketch art<br><br>📈 My goal is simple: **Trying to do better every day.**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:2563EB&text=Parag%20Yeole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Parag Yeole</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Research+Enthusiast;Building+Real-World+AI+Projects"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/parag-yeole-7987232a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/paragyeole10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://instagram.com/py_art_47"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@py_art_47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-yeole-7987232a7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SoulQuery) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paragyeole10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=paragyeole10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paragyeole10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paragyeole10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+- 🎓 Computer Science Engineering Student
+- 🤖 AI / ML • Computer Vision • Full Stack Development
+- 🌱 Learning Agentic AI, MLOps and Advanced Deep Learning
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel"/>
+</p>
+
+---
+
+# AI Expertise
+
+| Domain | Technologies |
+|---------|--------------|
+| Computer Vision | YOLO11, OpenCV |
+| Deep Learning | TensorFlow, PyTorch |
+| Machine Learning | Scikit-learn, Pandas |
+| Backend APIs | FastAPI, Flask |
+| IoT | Raspberry Pi, MQTT |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🌾 AgriVision AI</b></summary>
+
+AI-powered crop disease detection with multilingual recommendations.
+
+**Stack:** TensorFlow • MobileNetV2 • FastAPI • React Native • Supabase
+
+</details>
+
+<details>
+<summary><b>🔥 Fire & Smoke Detection</b></summary>
+
+Real-time fire detection using YOLO11.
+
+**Stack:** Python • YOLO11 • OpenCV
+
+</details>
+
+
+<details>
+<summary><b>🏙 Civic Issue Reporting System</b></summary>
+
+AI-assisted Smart India Hackathon project.
+
+</details>
+
+<details>
+<summary><b>🏠 Raspberry Pi Home Automation</b></summary>
+
+Voice-enabled IoT automation using MQTT and Firebase.
+
+</details>
+
+---
+
+# Experience
+
+## Python Developer Intern — TraillX
+
+- Backend Development
+- REST APIs
+- Python Automation
+- AI Integration
+
+---
+
+# Achievements
+
+- 🏆 Best Paper Award
+- 🚀 Multiple AI Projects
+- 💡 Hackathon Winner
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=paragyeole10&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragyeole10&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=paragyeole10&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=paragyeole10&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paragyeole10&theme=tokyo-night"/>
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Agentic AI
+  - MLOps
+  - Deep Learning
+
+building:
+  - AI Research
+  - Computer Vision Systems
+  - Full Stack Applications
+
+open_to:
+  - Internships
+  - Open Source
+  - Research Collaboration
+```
+
+---
+
+# Connect
+
+<p align="center">
+<a href="https://github.com/paragyeole10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/parag-yeole-7987232a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+<p align="center">
+<i>"Truing to do Better"</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:2563EB"/>
+</p>
