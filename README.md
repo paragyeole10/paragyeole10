@@ -172,7 +172,7 @@ open_to:
 </p>
 
 <p align="center">
-<i>"Truing to do Better"</i>
+<i>"Trying to do Better"</i>
 </p>
 
 <p align="center">
